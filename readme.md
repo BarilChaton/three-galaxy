@@ -4,3 +4,5 @@ Link: [Nova Points](https://codepen.io/prisoner849/pen/RwyzrVj)
 
 ### Disclaimer  
 This is not my original work, I only wanted to try implementing THREE.js into vanilla JavaScript.  
+### Link to build:
+[Three Galaxy](https://barilchaton.github.io/three-galaxy/)
